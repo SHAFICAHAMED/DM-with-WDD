@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://digitlmarketing.netlify.app/sitemap.xml
